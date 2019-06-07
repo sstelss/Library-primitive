@@ -1,2 +1,2 @@
 # web
-Libruary database. I use OpenServer and PHP 5
+Simple site for practice in PHP, HTML, CSS, JS...
